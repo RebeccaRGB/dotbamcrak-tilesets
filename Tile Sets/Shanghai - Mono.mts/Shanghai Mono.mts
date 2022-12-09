@@ -1,6 +1,6 @@
 source	Shanghai
-name	Shanghai
-image	Shanghai.png
+name	Shanghai Mono
+image	Shanghai Mono.png
 cellsize	38,44
 cellborder	6,0,0,6
 hilighttype	inverttile
