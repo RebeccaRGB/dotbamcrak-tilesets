@@ -7,42 +7,42 @@ hilighttype	invertface
 blankrect	white,black,1,1,1,1
 bgpattern	white,black,#8822882288228822
 
-tile	t0	0,0	Coconut 1
-tile	t1	1,0	Cracked Coconut
-tile	t2	2,0	Skull 2
-tile	t3	3,0	Alien 2
-tile	t4	4,0	Ghost
-tile	t5	5,0	Standing with Something
-tile	t6	0,1	Coconut 2
-tile	t7	1,1	Apple
-tile	t8	2,1	Apple with Bite
-tile	t9	3,1	Apple Core
-tile	t10	4,1	Computer
-tile	t11	5,1	Globe
-tile	t12	0,2	Crown
-tile	t13	1,2	Dollar Bag
-tile	t14	2,2	Untitled Tile 1
-tile	t15	3,2	Untitled Tile 2
-tile	t16	4,2	Untitled Tile 4
-tile	t17	5,2	Pumpkin
-tile	t18	0,3	Marble
-tile	t19	1,3	Stars
-tile	t20	2,3	Skull 3
-tile	t21	3,3	White Balloon
-tile	t22	4,3	Gray Balloon
-tile	t23	5,3	Black Balloon
-tile	t24	0,4	Bomb
-tile	t25	1,4	Walking
-tile	t26	2,4	Sitting
-tile	t27	3,4	Dog
-tile	t28	4,4	Alien 3
-tile	t29	5,4	Mouse
-tile	t30	0,5	Skull 1
-tile	t31	1,5	Alien 1
-tile	t32	2,5	Magnet
-tile	t33	3,5	Untitled Tile 3
-tile	t34	4,5	Phone Keys
-tile	t35	5,5	Skull 4
+tile	t0	0,0	Tile #1
+tile	t1	1,0	Tile #7
+tile	t2	2,0	Tile #13
+tile	t3	3,0	Tile #19
+tile	t4	4,0	Tile #25
+tile	t5	5,0	Tile #31
+tile	t6	0,1	Tile #2
+tile	t7	1,1	Tile #8
+tile	t8	2,1	Tile #14
+tile	t9	3,1	Tile #20
+tile	t10	4,1	Tile #26
+tile	t11	5,1	Tile #32
+tile	t12	0,2	Tile #3
+tile	t13	1,2	Tile #9
+tile	t14	2,2	Tile #15
+tile	t15	3,2	Tile #21
+tile	t16	4,2	Tile #27
+tile	t17	5,2	Tile #33
+tile	t18	0,3	Tile #4
+tile	t19	1,3	Tile #10
+tile	t20	2,3	Tile #16
+tile	t21	3,3	Tile #22
+tile	t22	4,3	Tile #28
+tile	t23	5,3	Tile #34
+tile	t24	0,4	Tile #5
+tile	t25	1,4	Tile #11
+tile	t26	2,4	Tile #17
+tile	t27	3,4	Tile #23
+tile	t28	4,4	Tile #29
+tile	t29	5,4	Tile #35
+tile	t30	0,5	Tile #6
+tile	t31	1,5	Tile #12
+tile	t32	2,5	Tile #18
+tile	t33	3,5	Tile #24
+tile	t34	4,5	Tile #30
+tile	t35	5,5	Tile #36
 
 match	t0,t0,t0,t0
 match	t1,t1,t1,t1
